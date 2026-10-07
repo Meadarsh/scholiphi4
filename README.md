@@ -2,7 +2,7 @@
 
 Home, AI Time Savings, ScholiPhi OS, and Pricing.
 
-Standalone static app derived from ScholiPhi commit `43b98c0`. Includes the mobile voice-tour playback fixes. Live demo and booking forms remain available from the landing page.
+Standalone static app derived from ScholiPhi commit `43b98c0`. Includes the mobile voice-tour playback fixes. The Book a demo enquiry form remains available from the landing page. The live product demo is excluded.
 
 Run locally:
 
